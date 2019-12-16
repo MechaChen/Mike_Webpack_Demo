@@ -1,0 +1,13 @@
+#app {
+    width: 200px;
+    height: 200px;
+    background-color: #faa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    >h1 {
+        color: #33a;
+        font-family: arial;
+        text-align: center;
+    }
+}
